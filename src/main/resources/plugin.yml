@@ -1,0 +1,4 @@
+name: Showcase
+version: '${project.version}'
+main: me.rebelmythik.showcase.Showcase
+api-version: 1.18
